@@ -102,7 +102,7 @@ Every push to `main` runs CI, builds a static export, and publishes it.
    once is the more reliable path, especially the very first time.
 3. Push to `main` (or run the "Deploy to GitHub Pages" workflow manually from
    the **Actions** tab).
-4. Your site goes live at `https://<your-username>.github.io/<repo-name>/`.
+4. Your site goes live at `https://hariprasanth-ps.github.io/Hariprasanth-Portfolio/`.
 
 That's it — `.github/workflows/deploy.yml` handles the rest automatically on
 every future push.
