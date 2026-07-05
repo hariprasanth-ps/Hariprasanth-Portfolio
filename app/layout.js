@@ -25,7 +25,7 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://example.com'), // TODO: replace with your real domain
+  metadataBase: new URL('https://hariprasanth-ps.github.io/Hariprasanth-Portfolio/'), // TODO: replace with your real domain
   title: {
     default: `${profile.name} — ${profile.role}`,
     template: `%s — ${profile.shortName}`,

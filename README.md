@@ -158,5 +158,5 @@ In that case, you can ignore `.github/workflows/deploy.yml` (or delete it) —
 ### Before going live
 
 `app/layout.js`, `app/sitemap.js`, and `app/robots.js` reference
-`https://example.com` as a placeholder — replace with your real deployed URL
+`https://hariprasanth-ps.github.io/Hariprasanth-Portfolio/` as a placeholder — replace with your real deployed URL
 (e.g. `https://your-username.github.io/repo-name`) once you know it.
